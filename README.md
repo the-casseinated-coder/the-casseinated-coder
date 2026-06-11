@@ -71,8 +71,20 @@ I am a second-year college student completing the T Level in Digital Production,
 
 - This solution is being created to provide customers of the Victoria Inn an easier way to fill out their Christmas meal orders, and streamlining the data collection for staff.
 
-- This is a classwide project, so it consists of 11 people including myself. Roles are to be determined.
+- This is a group project, so it consists of 4 people including myself. I am working on the front end in earlier stages and then contributing to backend.
 
-- The technologies we are using are to be determined.  
+- The technologies we are using are **HTML/CSS**, **Tailwind CSS**, **JavaScript**, and **PHP/MySQL**.
+
+### **Cosmopoetic Chart**
+
+*Assigned by I Use Genius via Tech Cornwall*
+
+#### Project Details
+
+- This solution is being created to provide a bold and whacky way in line with the rest of the website to present different goals, key performance indicators and other events.
+
+- This is a pair programming project, where the partner and role delegation remains the same as other Tech Cornwall projects.
+
+- The technologies we are using are **HTML/CSS**, **JavaScript**, and **PHP/MySQL**.
 
 ------------------
