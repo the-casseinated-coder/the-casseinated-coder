@@ -1,4 +1,4 @@
-# Hello there! I am the casseinated \[caffeinated\] coder, and this is my about me. <img alt="A pixel art coffee cup" width="32px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNzdmxtcGpoemZwaWJseDE2dzNqcXptbHZzMGJoejdnbTRsOHJ2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/V27tZ4NAGo9XdfpZ1F/giphy.gif"> 
+# Hello there! <img alt="A pixel art coffee cup" width="32px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNzdmxtcGpoemZwaWJseDE2dzNqcXptbHZzMGJoejdnbTRsOHJ2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/V27tZ4NAGo9XdfpZ1F/giphy.gif"> 
 
 ## *Introduction*
 
